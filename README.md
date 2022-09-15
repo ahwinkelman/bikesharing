@@ -8,6 +8,9 @@ This Tableau story https://public.tableau.com/app/profile/andrew.winkelman6563/v
 
 ![image](https://user-images.githubusercontent.com/107078763/190287155-695052b8-984a-45d1-9ab1-7fdf0abe66ec.png)
 
+![image](https://user-images.githubusercontent.com/107078763/190287216-3e820721-0188-4d37-abd8-6e20c18da894.png)
+
+
 
 
 
